@@ -164,7 +164,7 @@
             "screenshotURLs": []
         },
         {
-            "name": "Meta Business Suite",
+            "name": "MetaBusinessSuite",
             "type": 1,
             "bundleIdentifier": "com.facebook.PageAdminApp",
             "version": "420.0",
@@ -182,7 +182,7 @@
             ]
         },
         {
-            "name": "WhatsApp Business",
+            "name": "WhatsAppBusiness",
             "type": 1,
             "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
             "version": "25.12.73",
@@ -218,7 +218,7 @@
             ]
         },
         {
-            "name": "Discord Nitro",
+            "name": "DiscordNitro",
             "type": 2,
             "bundleIdentifier": "com.hammerandchisel.discord",
             "version": "275.0",
@@ -236,7 +236,7 @@
             ]
         },
         {
-            "name": "YouTube Premium",
+            "name": "YouTubePremium",
             "type": 1,
             "bundleIdentifier": "com.google.ios.youtube",
             "version": "20.29.3",
@@ -254,7 +254,7 @@
             ]
         },
         {
-            "name": "YouTubeMusic Premium",
+            "name": "YouTubeMusicPremium",
             "type": 1,
             "bundleIdentifier": "com.google.ios.youtubemusic",
             "version": "8.30.2",
