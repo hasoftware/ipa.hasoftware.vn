@@ -1,0 +1,155 @@
+{
+    "name": "TTJB con",
+    "identifier": "com.thuthuatjb.iparepo",
+    "sourceURL": "https://ipa.thuthuatjb.com/",
+    "iconURL": "https://ipa.thuthuatjb.com/img/logo.png",
+    "sourceImage": "https://ipa.thuthuatjb.com/img/logo.png",
+    "website": "https://thuthuatjb.com",
+    "subtitle": "Kho IPA by TTJB Team",
+    "META": {
+        "repoName": "TTJBcon",
+        "repoIcon": "https://ipa.thuthuatjb.com/img/logo.png"
+    },
+    "news": [
+        {
+            "title": "Ủng hộ chúng tôi",
+            "identifier": "thuthuatjb-donate",
+            "caption": "TTJB IPA Repo là một dự án miễn phí. Để vận hành toàn bộ hệ thống Thủ Thuật Jailbreak là một điều không đơn giản, chúng tôi cũng đã gặp khá nhiều rào cản và khó khăn khi xây dựng các sản phẩm này. Nào là chi phí cho dịch vụ lưu trữ website (hosting), máy chủ dữ liệu, chi phí duy trì tên miền (domain) hàng năm và một vài chi phí phát sinh khác trong quá trình xây dựng. Chưa kể đến rất nhiều tâm huyết mà bọn mình đã cố gắng thực hiện và phát triển.",
+            "tintColor": "CC0000",
+            "imageURL": "https://ipa.thuthuatjb.com/img/donate.jpg",
+            "date": "2025-04-11",
+            "url": "https://thuthuatjb.com/donate",
+            "notify": false
+        },
+        {
+            "title": "TTJB IPA Repo",
+            "identifier": "ttjb-ipa-repo-about",
+            "caption": "TTJB IPA Repo là nguồn IPA của iOS/iPadOS cho TrollApps, Esign, Gbox, Altstore, Scarlet... Bạn có thể nhập địa chỉ: https://ipa.thuthuatjb.com/repo vào phần thêm nguồn trong ứng dụng của bạn hoặc nhấn truy cập Kho IPA để tải IPA.",
+            "tintColor": "EE0000",
+            "imageURL": "https://thuthuatjb.com/wp-content/uploads/2024/03/ttstore-for-trollstore-ios-780x470.png",
+            "url": "https://ipa.thuthuatjb.com",
+            "date": "2025-04-11",
+            "notify": true
+        },
+        {
+            "title": "Hỗ trợ chọn phiên bản",
+            "identifier": "ttjb-ipa-repo-version-with-feather",
+            "caption": "TTJB IPA Repo đã hỗ trợ chọn phiên bản khi dùng với Feather, bạn có thể bấm giữ vào ứng dụng và chọn nút Phiên bản trước để chọn phiên bản. Tuy nhiên, Feather hiện lại chưa hỗ trợ xem thông tin phiên bản, nên nếu bạn muốn biết từng phiên bản thêm các tuỳ chỉnh gì, hãy dùng phiên bản cũ của nguồn là https://ipa.thuthuatjb.com/repo-old",
+            "tintColor": "EE0000",
+            "imageURL": "https://thuthuatjb.com/wp-content/uploads/2025/05/huong-dan-feather-780x470.png",
+            "url": "https://ipa.thuthuatjb.com",
+            "date": "2025-07-14",
+            "notify": true
+        }
+    ],
+    "apps": [
+        {
+            "name": "LINE",
+            "type": 1,
+            "bundleIdentifier": "jp.naver.line",
+            "version": "15.12.1",
+            "versionDate": "2025-08-14",
+            "size": 157052659,
+            "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/25-03-2025/Snapcalc_1.47.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "localizedDescription": "Mặc định từ nhà phát triển",
+            "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dr1ven.eraser.png",
+            "subtitle": "Dit me may Feathert tao buc minh vl voiw may roi roi ",
+            "developerName": "",
+            "screenshotURLs": [
+                "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+                "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+                "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+            ]
+        },
+        {
+            "name": "Facebook",
+            "type": 1,
+            "bundleIdentifier": "com.facebook.Facebook",
+            "version": "523.0.0",
+            "versionDate": "2025-07-24",
+            "size": 157052659,
+            "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/25-03-2025/Snapcalc_1.47.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi UCerts",
+            "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dr1ven.eraser.png",
+            "subtitle": "Dit me may Feathert tao buc minh vl voiw may roi roi ",
+            "developerName": "",
+            "screenshotURLs": [
+                "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+                "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+                "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+            ]
+        },
+        {
+            "name": "Messenger",
+            "type": 1,
+            "bundleIdentifier": "com.facebook.Messenger2",
+            "version": "492.0.0",
+            "versionDate": "2025-03-11",
+            "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/25-03-2025/Snapcalc_1.47.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "localizedDescription": "Facebook Messenger phiên bản song song với phiên bản gốc. - IPA đã được kiểm tra và tổng hợp bởi UCerts",
+            "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dr1ven.eraser.png",
+            "size": 57945353,
+            "subtitle": "Dit me may Feathert tao buc minh vl voiw may roi roi ",
+            "developerName": "",
+            "screenshotURLs": [
+                "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+                "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+                "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+            ]
+        },
+        {
+            "name": "Zalo",
+            "type": 1,
+            "bundleIdentifier": "vn.com.vng.zingalo",
+            "version": "231202",
+            "versionDate": "2024-01-01",
+            "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/25-03-2025/Snapcalc_1.47.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "localizedDescription": "Ứng dụng Zalo phiên bản song song với bản gốc - IPA đã được kiểm tra và tổng hợp bởi UCerts",
+            "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dr1ven.eraser.png",
+            "size": 133414421,
+            "subtitle": "Dit me may Feathert tao buc minh vl voiw may roi roi ",
+            "developerName": "",
+            "screenshotURLs": [
+                "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+                "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+                "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+            ]
+        },
+        {
+            "name": "TikTok",
+            "type": 1,
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "40.9.0",
+            "versionDate": "2025-08-14",
+            "size": 451822888,
+            "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/25-03-2025/Snapcalc_1.47.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "localizedDescription": "Chức năng đã thêm: Plus - IPA đã được kiểm tra và tổng hợp bởi UCerts",
+            "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dr1ven.eraser.png",
+            "subtitle": "Dit me may Feathert tao buc minh vl voiw may roi roi ",
+            "developerName": "",
+            "screenshotURLs": [
+                "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+                "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+                "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+            ]
+        },
+        {
+            "name": "Instagram",
+            "type": 1,
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "391.0.0",
+            "versionDate": "2025-07-30",
+            "size": 235407169,
+            "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/25-03-2025/Snapcalc_1.47.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi UCerts",
+            "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dr1ven.eraser.png",
+            "subtitle": "Dit me may Feathert tao buc minh vl voiw may roi roi ",
+            "developerName": "",
+            "screenshotURLs": [
+                "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+                "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+                "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+            ]
+        }
+    ]
+}
