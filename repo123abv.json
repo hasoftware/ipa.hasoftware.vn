@@ -1,0 +1,188 @@
+{
+    "name": "Kho ứng dụng UCerts",
+    "identifier": "io.ucerts.appstore",
+    "sourceURL": "https://repo.ucerts.io/",
+    "iconURL": "https://objects.onbasoft.com/uapps/certificate_store_9646a974f4.png",
+    "sourceImage": "https://objects.onbasoft.com/uapps/certificate_store_9646a974f4.png",
+    "website": "https://ucerts.io",
+    "subtitle": "Kho IPA by UCerts Team",
+    "META": {
+        "repoName": "Kho ứng dụng UCerts",
+        "repoIcon": "https://objects.onbasoft.com/uapps/certificate_store_9646a974f4.png"
+    },
+    "news": [
+            {
+                "title": "Hoàng Sa, Trường Sa là của Việt Nam!",
+                "identifier": "news_ffsosqfdre",
+                "caption": "Hoàng Sa, Trường Sa là máu thịt của Tổ quốc Việt Nam! Từ bao đời nay, cha ông ta đã khai phá, gìn giữ và khẳng định chủ quyền không thể chối cãi đối với từng tấc biển, hòn đảo. Hôm nay, thế hệ con cháu chúng ta càng phải đoàn kết một lòng, bảo vệ toàn vẹn lãnh thổ và biển đảo quê hương. Vì chủ quyền quốc gia, vì hòa bình và công lý – Việt Nam quyết không lùi bước!",
+                "tintColor": "E74C3C",
+                "imageURL": "https://s3.ap-northeast-1.amazonaws.com/h.files/images/1755258041086_3OU9zj5Xr4.jpg",
+                "notify": true,
+                "url": "https://example.com/new_feature_details"
+            },
+            {
+                "title": "Xem chi tiết ứng dụng",
+                "identifier": "news_jzbgb541cm",
+                "caption": "Truy cập thông tin đầy đủ của ứng dụng trước khi tải, bao gồm mô tả, dung lượng, và phiên bản.",
+                "tintColor": "1ABC9C",
+                "imageURL": "https://s3.ap-northeast-1.amazonaws.com/h.files/images/1755255957337_rAF6fUp0At.jpg",
+                "notify": true,
+                "url": "https://example.com/new_feature_details"
+            },
+            {
+                "title": "Tự động cập nhật chứng chỉ từ UCerts",
+                "identifier": "news_ae93q4w6dq",
+                "caption": "Giờ đây USigner có thể tự động tải và áp dụng chứng chỉ từ UCerts, giúp bạn tiết kiệm thời gian và loại bỏ thao tác thủ công. Bạn không cần phải tải chứng chỉ hay nhập chứng chỉ vào USigner nữa.",
+                "tintColor": "2ECC71",
+                "imageURL": "https://s3.ap-northeast-1.amazonaws.com/h.files/images/1755258308031_gMkARx2yH6.jpg",
+                "notify": true,
+                "url": "https://ucerts.io/"
+            },
+            {
+                "title": "Chạy nền thông minh",
+                "identifier": "news_3srhodma3h",
+                "caption": "Ứng dụng tiếp tục tải và cài đặt ngay cả khi bạn thu nhỏ hoặc chuyển sang tác vụ khác, đảm bảo tiến trình không bị gián đoạn.",
+                "tintColor": "3498DB",
+                "imageURL": "https://s3.ap-northeast-1.amazonaws.com/h.files/images/1755255691999_7i3Zx0HJqe.png",
+                "notify": true,
+                "url": "https://example.com/new_feature_details"
+            },
+            {
+                "title": "Trang chủ hoàn toàn mới",
+                "identifier": "news_07qnosqjf6",
+                "caption": "Thiết kế lại toàn bộ giao diện trang chủ, hiện đại và tối ưu hơn cho việc quản lý ứng dụng.",
+                "tintColor": "E67E22",
+                "imageURL": "https://s3.ap-northeast-1.amazonaws.com/h.files/images/1755258235878_hWXY2afOMD.png",
+                "notify": true,
+                "url": "https://example.com/new_feature_details"
+            },
+            {
+                "title": "Thêm Tab App Store",
+                "identifier": "news_lrayus31ml",
+                "caption": "Tích hợp trực tiếp kho ứng dụng, giúp bạn tìm kiếm và tải app nhanh chóng ngay trong USigner.",
+                "tintColor": "9B59B6",
+                "imageURL": "https://s3.ap-northeast-1.amazonaws.com/h.files/images/1755255852064_aiyEIjPzsf.jpg",
+                "notify": true,
+                "url": "https://example.com/new_feature_details"
+            },
+            {
+                "title": "Tùy chọn phiên bản ứng dụng",
+                "identifier": "news_xlqyyey31e",
+                "caption": "Tải đúng phiên bản ứng dụng bạn cần, kể cả phiên bản cũ hơn, đáp ứng nhu cầu thử nghiệm hoặc tương thích thiết bị.",
+                "tintColor": "F1C40F",
+                "imageURL": "https://s3.ap-northeast-1.amazonaws.com/h.files/images/1755258143493_LXGs1dGs3T.jpg",
+                "notify": true,
+                "url": "https://example.com/new_feature_details"
+            }
+    ],
+    "apps": [
+        {
+            "name": "LINE",
+            "type": 1,
+            "bundleIdentifier": "jp.naver.line",
+            "version": "15.12.1",
+            "versionDate": "2025-08-14",
+            "size": 157052659,
+            "downloadURL": "https://files.unlimitedipa.com/ipa/Social%20Networking/LINE/LINE_Version-15.12.1_Tweak-Normal_jp.naver.line_by-UCerts.ipa",
+            "localizedDescription": "Mặc định từ nhà phát triển",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/92/e1/1392e1d9-d089-84a5-e88b-9f70eef27753/basic_default-0-0-1x_U007epad-0-6-0-0-sRGB-85-220.png/230x0w.jpg",
+            "subtitle": "UCerts",
+            "developerName": "",
+            "screenshotURLs": [
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ba/ff/66/baff6688-ac50-5bd7-8409-ff4b80359372/374ac154-d1f4-44d2-af43-ad4f7bb117f8_Chat_01_6.5_EN.png/230x0w.png",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/9b/85/ed9b852c-c036-a448-3482-09983d3fb932/00bafc0d-9364-4a89-a73d-7cb3980ca7c7_Sticker_01_6.5_EN.png/230x0w.png",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/9b/85/ed9b852c-c036-a448-3482-09983d3fb932/00bafc0d-9364-4a89-a73d-7cb3980ca7c7_Sticker_01_6.5_EN.png/230x0w.png"
+            ]
+        },
+        {
+            "name": "Facebook",
+            "type": 1,
+            "bundleIdentifier": "com.facebook.Facebook",
+            "version": "523.0.0",
+            "versionDate": "2025-07-24",
+            "size": 157052659,
+            "downloadURL": "https://files.unlimitedipa.com/ipa/Social%20Networking/Facebook/Facebook_Version-523.0.0_Tweak-Premium_com.facebook.Facebook_by-UCerts.ipa",
+            "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi UCerts",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/88/fc/1888fc33-6979-90da-3ad1-9e8106e6b303/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "subtitle": "UCerts",
+            "developerName": "",
+            "screenshotURLs": [
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/ab/b1/faabb115-0b12-7aa0-2781-2686a446cfe9/f254967c-6ef9-4cc6-b4bf-e89cf016337c_1-iOS-5.5-Home.png/392x696bb.png",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/fc/57/6cfc57df-f4b7-5fb3-e8ff-5f6e558291b9/c795c58d-ec37-463c-9ab9-ba0b8bc00ddd_2-iOS-5.5-Reels.png/392x696bb.png",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/87/31/cb8731d5-be04-145c-443f-4e0cfd042d22/0130e841-7bad-4f8c-83c9-61ea0bac7d7b_3-iOS-5.5-Stories.png/392x696bb.png"
+            ]
+        },
+        {
+            "name": "Messenger",
+            "type": 1,
+            "bundleIdentifier": "com.facebook.Messenger2",
+            "version": "492.0.0",
+            "versionDate": "2025-03-11",
+            "downloadURL": "https://files.unlimitedipa.com/ipa/Unknown/Messenger%202/Messenger%202_Version-492.0.0_Tweak-Unknown_com.facebook.Messenger2_by-UCerts.ipa",
+            "localizedDescription": "Facebook Messenger phiên bản song song với phiên bản gốc. - IPA đã được kiểm tra và tổng hợp bởi UCerts",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/76/99/54769930-ad69-c59d-0593-bca17378329a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+            "size": 57945353,
+            "subtitle": "UCerts",
+            "developerName": "",
+            "screenshotURLs": [
+                "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+                "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+                "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+            ]
+        },
+        {
+            "name": "Zalo",
+            "type": 1,
+            "bundleIdentifier": "vn.com.vng.zingalo",
+            "version": "231202",
+            "versionDate": "2024-01-01",
+            "downloadURL": "https://files.unlimitedipa.com/ipa/Social%20Networking/Zalo/Zalo_Version-25.06.02_Tweak-Normal_vn.com.vng.zingalo_by-UCerts.ipa",
+            "localizedDescription": "Ứng dụng Zalo phiên bản song song với bản gốc - IPA đã được kiểm tra và tổng hợp bởi UCerts",
+            "iconURL": "",
+            "size": 133414421,
+            "subtitle": "UCerts",
+            "developerName": "",
+            "screenshotURLs": [
+                "https://ipa.thuthuatjb.com/view/img/repo-view.png",
+                "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
+                "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+            ]
+        },
+        {
+            "name": "TikTok (Global)",
+            "type": 1,
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "40.9.0",
+            "versionDate": "2025-08-14",
+            "size": 451822888,
+            "downloadURL": "https://files.unlimitedipa.com/ipa/Entertainment/TikTok/TikTok_Version-40.9.0_Tweak-Normal_com.zhiliaoapp.musically_by-UCerts.ipa",
+            "localizedDescription": "Chức năng đã thêm: Plus - IPA đã được kiểm tra và tổng hợp bởi UCerts",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/86/31/5c8631fb-7d0f-32d9-a7c3-14db00368985/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+            "subtitle": "UCerts",
+            "developerName": "",
+            "screenshotURLs": [
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/392x696bb.png",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/392x696bb.png",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/392x696bb.png"
+            ]
+        },
+        {
+            "name": "Instagram",
+            "type": 1,
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "391.0.0",
+            "versionDate": "2025-07-30",
+            "size": 235407169,
+            "downloadURL": "https://files.unlimitedipa.com/ipa/Photo%20%26%20Video/Instagram/Instagram_Version-391.0.0_Tweak-Premium_com.burbn.instagram_by-UCerts.ipa",
+            "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi UCerts",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/cb/14/fdcb1431-01a4-8996-e144-e81b52eed60d/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+            "subtitle": "UCerts",
+            "developerName": "",
+            "screenshotURLs": [
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/7d/38/487d38e8-2b22-5d9b-0c91-7fa14b44afdb/1_iOS_5.5.jpg/392x696bb.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/23/dc/2e23dc73-08fa-a684-d293-27dd610f98db/2_iOS_5.5.jpg/392x696bb.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/75/1a/60751ac0-9ffe-a54b-4ebc-203cb007b8ca/3_iOS_5.5.jpg/392x696bb.jpg"
+            ]
+        }
+    ]
+}
